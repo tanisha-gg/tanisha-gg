@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 ⭐ I'm a Physics PhD student with experience in computational modelling, data analysis, and high-performance computing. I am currently working on problems in plasma physics, specifically performing magnetohydrodynamics (MHD) simulations to gain insights into the behaviour of astrophysical phenomena. 
 
