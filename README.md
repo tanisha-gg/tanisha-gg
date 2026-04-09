@@ -1,8 +1,8 @@
 ## Hi there!
 
-⭐ I'm a Physics PhD student with experience in computational modelling, data analysis, and high-performance computing. I am currently working on problems in plasma physics, specifically performing magnetohydrodynamics (MHD) simulations to gain insights into the behaviour of astrophysical phenomena. 
+I have experience with numerical simulations, data analysis, and high-performance computing. In the past I've worked on problems in plasma physics, specifically performing magnetohydrodynamics (MHD) simulations to gain insights into the behaviour of astrophysical phenomena. I am currently pivoting into flight systems and aerospace engineering, and am learning more about aircraft controls.
 
-🪐 My GitHub profile includes some projects I've worked on - mostly to do with solving Physics equations, as well as some data analysis and machine learning pipelines for different applications. 
+My GitHub profile includes some projects I've worked on - mostly to do with solving Physics equations, as well as some data analysis and machine learning pipelines for different applications. 
 <!--
 **tanisha-gg/tanisha-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
